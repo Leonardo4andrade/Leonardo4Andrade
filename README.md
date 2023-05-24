@@ -9,6 +9,7 @@ Sou formado em Administração de Empresa, Pós-Graduado em Finanças e Controla
 - 📩Estou disponivel através do e-mail leo_ferreira_andrade@hotmail.com
 - 🌎Apaixonado pelo universo e todas as formas de vida
 
+
 <a href="https://www.linkedin.com/in/leonardoferreiradeandrade/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:30px" target="_blank"></a> 
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="border-radius:30px" target="_blank"></a></a> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="border-radius:30px" target="_blank"></a></a>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="border-radius:30px" target="_blank"></a></a>
