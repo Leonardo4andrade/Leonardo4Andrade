@@ -1,13 +1,12 @@
 ### Olá 👋
-Meu nome é Leonardo, atualmente trabalho como Financial Data Analyst em uma Cooperatida de Crédito.
+Seja bem-vindo,
 
-Sou formado em Administração de Empresa, Pós-Graduado em Finanças e Controladoria e atualmente cursando Master Business Administration em Ciencia de Dados e Analitycs pela Universidade de São Paulo (USP).
+Eu me chamo Leonardo, sou formado em Administração de Empresa, Pós-Graduado em Finanças e Controladoria e atualmente cursando MBA em Ciencia de Dados e Analitycs pela Universidade de São Paulo (USP).
 
-- 📙 Estou aprendendo mais sobre Python, SQL, Power BI e AWS
-- 💡 Busco colaborar com a tomada de decisão assertiva, mitigação de riscos e automatização de processos
-- ⭐Procuro compartilhar e absorver conhecimentos relacionados a Finanças e Tecnologia
-- 📩Estou disponivel através do e-mail leo_ferreira_andrade@hotmail.com
-- 🌎Apaixonado pelo universo e todas as formas de vida
+- 📙 Buscando sempre aprimorar meus conhecimentos em Finanças, Ciencia de Dados e Automação de Processos.
+- 💡 Minha vontade de aprender me move todos os dias (lifelong learning).
+- ⭐ Almejo alcançar um cargo estratégico na área de Finanças em uma grande organização.
+- 📩 Estou disponivel através do e-mail leo_ferreira_andrade@hotmail.com.
 <p></p>
 
 <a href="https://www.linkedin.com/in/leonardoferreiradeandrade/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" width="70" style="border-radius:30px" target="_blank"></a> 
